@@ -8,12 +8,12 @@ Zeolite Monte Carlo (ZMC) is a package designed to conduct coarse-grained kineti
 
 ** Requirements
 This package leverages the following python libraries: 
-• Numpy
-• Scipy
-• Math
-• Matplotlib
-• Random
-• Atomic Simulations Environment (ASE) : The latest version can be installed from [[https://github.com/rosswhitfield/ase.git][https://github.com/rosswhitfield/ase.git]].
+- Numpy
+- Scipy
+- Math
+- Matplotlib
+- Random
+- Atomic Simulations Environment (ASE) : The latest version can be installed from [[https://github.com/rosswhitfield/ase.git][https://github.com/rosswhitfield/ase.git]].
 
 ** Installation
 Simply clone this repository onto your terminal and set the PYTHONPATH variable to the cloned repository. To ensure correct installation, run example.py from this location. 
