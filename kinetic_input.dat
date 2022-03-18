@@ -1,0 +1,12 @@
+Kinetic_mode      steady_state
+###########################################
+A_reduction       0.023
+Ea_reduction      0.00
+Reduce_mode       single
+###########################################
+A_pairing         52.103
+Ea_pairing        0.00
+Decay             sigmoidal
+Sigmoid_cutoff    20.0
+Sigmoid_slope     5.0
+Statistics        False 
