@@ -1,0 +1,3 @@
+The simulation time taken by the code is 1000.0603360785574 seconds
+The total calculation time taken by the code is 284.2920017282013 seconds
+The total kMC events simulated by the code is 11094
